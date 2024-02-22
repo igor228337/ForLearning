@@ -7,6 +7,8 @@
         mc:Ignorable="d"
         Title="MegaIltraPage" Height="450" Width="800">
     <Grid>
-        
+        <Button Width="100" Height="50" Background="Red">
+            <Button Background="Yellow" Width="25" Height="10"/>
+        </Button>
     </Grid>
 </Window>
